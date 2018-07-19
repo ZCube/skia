@@ -80,6 +80,7 @@ elseif(MSVC)
                       /wd4389
                       /wd4456
                       /wd4457
+                      /wd4459
                       /wd4505
                       /wd4554
                       /wd4589
